@@ -1,0 +1,13 @@
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.exe
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.deps.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.runtimeconfig.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.runtimeconfig.dev.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.dll
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\bin\Debug\netcoreapp3.1\Tydzien2_petle.pdb
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.dll
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.pdb
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_petle\Tydzien2_petle\obj\Debug\netcoreapp3.1\Tydzien2_petle.genruntimeconfig.cache
